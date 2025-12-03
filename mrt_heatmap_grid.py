@@ -1,6 +1,7 @@
-#!/usr/bin/env python3
 """
 mrt_heatmap_grid.py
+
+Author: Dong Hyun Kim (in collaboration with GPT‑5.1 on 3 December 2025)
 
 Compute a 2D heatmap of MRT [°C] as a function of camera position (cam_x, cam_z)
 at a fixed cam_y, using the same ray-cast MRT logic as
