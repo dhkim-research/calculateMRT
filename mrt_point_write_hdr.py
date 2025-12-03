@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 mrt_point_write_hdr.py
 
